@@ -29,7 +29,7 @@ product-price-comparison/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/product-price-comparison.git
+git clone https://github.com/DEV PATEL MAHARSHI PATEL/product-price-comparison.git
 cd product-price-comparison
 ```
 
